@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 
-TCP/IP network programming final project, is a multiplayer Rock-Paper-Scissors game for TCP connections.
+2021-fall TCP/IP network programming final project, is a multiplayer Rock-Paper-Scissors game for TCP connections.
 
 Use python to write Server and Client side.
 
@@ -11,7 +11,7 @@ Use python to write Server and Client side.
 * Second Open main.py and input server ip address
 
 
-## Open server.py
+## server.py
 
 ![](https://i.imgur.com/hWdsXnP.jpg)
 
