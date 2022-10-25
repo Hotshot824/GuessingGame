@@ -12,7 +12,7 @@ Use python to write Server and Client side.
 
 ### main.py
 
-![](https://i.imgur.com/hWdsXnP.jpg)
+![](https://github.com/Hotshot824/Rock-Paper-Scissors/blob/main/doc_img/01.JPG?raw=true)
 
 <br>
 
@@ -21,7 +21,7 @@ And now wiating Play2 connnect to server.
 
 <br>
 
-![](https://i.imgur.com/WMyHWJX.jpg)
+![](https://github.com/Hotshot824/Rock-Paper-Scissors/blob/main/doc_img/02.JPG?raw=true)
 
 Click the button play again.\
 If Play2 leavse game, P1 will wait next P2 join game.
