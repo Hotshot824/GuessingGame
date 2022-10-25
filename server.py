@@ -90,7 +90,7 @@ class GameServer(asyncio.Protocol):
             print('Client {} closed socket'.format(self.address))
 
 def RunServer():
-    address = ("0.0.0.0", GetPort())
+    address = ("127.0.0.1", GetPort())
     loop = asyncio.get_event_loop()
     coro = loop.create_server(GameServer, *address)
     server = loop.run_until_complete(coro)
